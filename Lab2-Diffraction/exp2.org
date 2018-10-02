@@ -1,0 +1,14 @@
+D = 97cm
+* Table
+** Calculated slit separation
+*** a? \lambda=670nm m=1,2 D=\frac{ay}{m\lambda} a=\frac{Dm\lambda}{y}
+** % difference
+*** (|x_e - x_t| / |x_t|) * 100%
+* Q1
+** decrease
+* Q2
+** same
+* Q3
+** same
+* Q4
+** decrease
