@@ -1,0 +1,13 @@
+Angle   Ref1    Ref2
+0       0       0
+10      7       6
+20      13      13
+30      20      20
+40      25      26
+50      31.5    31.5
+60      36      36
+70      41.5    42
+80      n/a     n/a
+90      n/a     n/a
+(ray of refraction becomes fuzzy and curved at 80;
+reflected ray becomes much clearer)  

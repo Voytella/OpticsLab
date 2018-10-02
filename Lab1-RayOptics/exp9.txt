@@ -1,0 +1,4 @@
+color           n       AB(cm)      X(cm)       L(cm)
+red             5                   1           35
+green           4                   0.5         35            
+blue/green      7                   1           35

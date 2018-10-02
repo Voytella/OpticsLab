@@ -1,0 +1,247 @@
+* Exp1Pt1
+** Q1
+*** Rays are straight, but not parallel
+** Q2
+*** thicker and duller (not as sharp; is fuzzy) further from Slit Plate
+** Q3
+*** all rays appear to originate directly from bulb (even at angle)
+** Q4
+*** as angle increases, width increases and distinctness decreases
+** Q5
+*** Most distinct when the Slit Plate is vertical, and least distinct when horizontal.
+** Q6
+*** 
+* Exp1Pt2
+** Q1
+*** 24.1cm
+** Q2
+*** 25.64cm
+** Q3
+*** %err: 6%
+* Exp2
+** Q1
+*** yes
+** Q2
+*** The reflected and incident rays are visible on the 2D surface.
+** Q3
+*** angle of incidence equals the angle of reflection
+* Exp3
+** Q1
+*** yes
+** Q2
+*** d_1 = 30.15cm
+** Q3
+*** d_2 = 30.05cm
+* Exp4
+** Q1
+*** no
+** Q2
+*** yes; slightly bent
+** Q3
+*** The two measurements are mostly the same. Differences are attributed to our inability to perfectly align the ray with the Ray Table.
+** Q4
+*** [graph later]
+** Q5
+*** [graphing]
+* Exp5
+** at 70deg, raw divergent
+** on the flat edge, 80 point to 45; second incident ray is completely reflected
+** Q1
+*** 
+** Q2
+*** 
+** Q3
+*** 
+** Q4
+*** 
+** Q5
+*** 
+* Exp6pt1
+** Q1
+*** 20 -> 38.5
+** Q2
+*** 40 -> 80
+** Q3
+*** red has minimum, some yellow, some green, blue, some purple has maximum
+** Q4
+*** at 40deg incidence:
+**** red: 76.5
+**** blue: 85
+* Exp6pt2
+** Q1
+*** While reflection off the flat edge is dim, the reflection from the curved edge is much more prominent and complete at 80 degrees.
+** Q2
+*** yes; there is always a reflected ray
+** Q3
+*** yes; the incidence angles match the reflected angles
+** Q4
+*** no refracted ray for >45 angles of incidence on curved edge
+** Q5
+*** as angle of incidence increased, the refracted ray decreases in intensity while the refracted ray increases
+** Q6
+*** 83; when refraction disappears
+* Exp7
+** Q1
+*** magnified
+** Q2
+*** yes
+** Q3
+*** d_i decreases when d_o increases
+** Q4
+*** d_i would tend toward f because (1/(d_o)), as d_o -> inf, = 0
+** Q5
+*** view screen = 103
+*** lens = 95
+*** obj = 20
+*** source = 10
+*** focal length = 103- 95 = 8cm
+**** theoretical = 7.5cm
+*** at 50mm, no focused image, because d_o < f
+*** at 75mm (focal length of lens (f)), d_i = inf, because d_o = f
+*** at 100, high error because difficult to find point of highest focus, and height exceeded viewing screen
+** Q6
+*** [calc]
+** Q7
+*** [above (Q5)] (d_o > f) for image to form
+* Exp8pt1
+** Q1
+*** yes; colors appear from white light
+** Q2
+*** white; the colors are combined
+* Exp8pt2
+** Q1
+*** transmitted: green; reflected: white
+** Q2
+*** reflected: white
+*** cannot tell because only white light is reflected
+** Q3
+*** NOTE: no blue filter; had to use blue/green filter
+*** reflected: blue
+** Q4
+*** it reflects only green light and absorbs all other colors
+* Exp9
+* Exp10pt1
+** Q1
+*** no; because a significant portion of the light is not making it through the polarizers
+** Q2
+*** no; the light is visible no matter the orientation of a single polarizer
+** Q3
+*** maximum: 0, 180 
+*** minimum: 90, 270
+* Exp10pt2
+** Q1
+*** yes; 90/270-dim, 0/180-bright
+** Q2
+*** no;
+* Exp11pt1
+** Q1
+*** 61.5mm
+** Q2
+*** [drawing]; 6cm
+** Q3
+*** 
+* Exp11pt2
+** Q1
+*** where the reflected rays cross
+** Q2
+*** the image not noticeably affected unless it is very close
+*** because light rays become divergent
+** Q3
+*** no; because the rays are divergent
+** Q4
+*** no; because the rays diverge
+* Exp11pt3
+** Q1
+*** increases as d_o decreases because M=-\frac{d_i}{d_o}
+** Q2
+*** yes; yes, if image is viewed from past the focal point, the rays have converged and crossed over
+* Exp11pt4
+** Q1
+*** yes, but the more extreme (closer to the edges) ones are blurrier
+** Q2
+*** make it a parabola
+* Exp12pt1
+** Q1
+*** 6.6cm
+** Q2
+*** ray tracing
+** Q3
+*** at 150mm, clearly inverted
+*** at ~100, the image is formed behind the target, so it could not be captured on the viewing screen 
+*** [calc]
+* Exp13pt1
+** Q1
+*** 7cm
+*** 5.1cm
+** Q2
+*** they converge at the same focal length
+** Q3
+*** they converge further from the previous
+*** on the flat edge the rays are parallel until they exit
+*** on the curved edge the incident rays are no longer parallel
+* Exp13pt2
+** Q1
+*** 7cm
+** Q2
+*** further away as light source becomes closer
+** Q3
+*** no
+* Exp13pt3
+** Q1
+*** more magnification closer to light source
+** Q2
+*** yes; yes
+* Exp13pt4
+** Q1 
+*** yes, except for the edges
+** Q2
+***
+* Exp14pt1
+** Q1
+*** smaller aperture -> more focus
+** Q2
+*** infinitely small aperture for best focus
+* Exp14pt2
+** Q1
+*** depth of field is reduced as aperture closes
+** Q2
+*** image blurry
+** Q3
+*** yes
+** Q4
+*** larger aperture -> blurry image
+** Q5
+*** magnification increases as distance increases
+** Q6
+*** pinhole camera
+* Exp14pt3
+** Q1
+*** more space for rays to separate
+* Exp15pt1
+** Q1
+*** D > E; E >= F; as slit width increases, width of maxima increases
+** Q2
+*** thin pattern (many lines close together)
+* Exp15pt2
+** Q1
+*** 
+** Q2
+*** 
+* Exp16pt1
+** Q1
+*** narrower slits -> narrower fringes
+** Q2
+*** D spread out, coherent, strong pattern; A narrow blurry
+* Exp16pt2
+** Q1
+*** 
+* Exp19
+** Q1
+*** no; passed focal length
+** Q2
+*** yes; 
+** Q3
+*** in order for large magnification, d_o < f
+*** no
+** Q4
+*** no
