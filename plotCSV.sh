@@ -30,7 +30,8 @@ procDataNoHead=$(tail -n +2 "$dataFile" | "$procFile")
 
 # slap the header back on top
 headersCSV=$(head -n 1 "$dataFile" | sed s/\ /,/g)
-procData="$headersCSV\n$procDataNoHead"
+
+procData="$headersCSV"$'\n'"$procDataNoHead"
 
 # create the PNG
 $julia plotCSV.jl "$dataFileNoExt" "$procData"
