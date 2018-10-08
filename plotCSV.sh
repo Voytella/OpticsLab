@@ -2,6 +2,19 @@
 
 # processes and plots data
 
+# print usage instructions
+usage() {
+cat <<EOF
+    USAGE: ./plotCSV.sh <path to data file> <path to executable>
+EOF
+}
+
+# check number of arguments
+if [ $# != 2 ]; then
+   usage
+   exit
+fi
+
 # julia versioning (may be edited for use on your machine) (inelegant solution)
 julia='/Applications/Julia-1.0.app/Contents/Resources/julia/bin/julia'
 
