@@ -600,20 +600,21 @@ while reflecting all other colors.
 
 \begin{figure}[H]
   \label{tab:9.1}
-  \caption{\textbf{Table 9.1:} The different parts of the slit geometry.}
+  \caption{\textbf{Table 9.1:} The different parts of the slit geometry. The
+    results of the calculations seem to be too low by two orders of magnitude.}
   \begin{center}
     \begin{tabular}{|ccccc|c|}
       \hline
-      \multicolumn{5}{|c|}{Data} & Calculations \\
+      \multicolumn{5}{|c|}{Data} & Calculations (\si{\nano\meter}) \\
       \hline
       Color & n & AB (\si{\centi\meter}) & X (\si{\centi\meter}) & L
                                                                    (\si{\centi\meter})
                                                                  & 
 \(\frac{(AB)}{n} \sin{(\tan{}^{-1}(\frac{X}{L}))} = \lambda\) \\
       \hline
-      red        & 5 & & 1   & 35 &   \\
-      green      & 4 & & 0.5 & 35 &   \\
-      blue/green & 7 & & 1   & 35 &   \\
+      red        & 5 & \num{0.00016} & 1   & 35 & 9.14  \\
+      green      & 4 & \num{0.00016} & 0.5 & 35 & 5.71  \\
+      blue/green & 7 & \num{0.00016} & 1   & 35 & 6.53  \\
       \hline
     \end{tabular}
   \end{center}

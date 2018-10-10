@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1539141313 "lab1-rayOptics.tex" "lab1-rayOptics.pdf" "lab1-rayOptics" 1539141314
+["pdflatex"] 1539142236 "lab1-rayOptics.tex" "lab1-rayOptics.pdf" "lab1-rayOptics" 1539142237
   "./exp1.jpg" 1539138160 34589 a3bfdca21c7434332397b0498a4913b9 ""
   "./exp11.jpg" 1539131801 21980 3c5966b0f8efd606b60632008cb984db ""
   "./exp3.jpg" 1539136741 90871 b6e5b2c337a0827f9c610314d355659f ""
@@ -174,8 +174,8 @@
   "exp3.jpg" 1539136741 90871 b6e5b2c337a0827f9c610314d355659f ""
   "exp4-ref1.png" 1539041726 15672 821246dd5b0c61eb192f3fbd86f321f7 ""
   "exp4-ref2.png" 1539041835 15717 12325bdc96065f000599482df8025485 ""
-  "lab1-rayOptics.aux" 1539141314 15115 2c7bc9bee83e2a1c428b0ed500c2d856 ""
-  "lab1-rayOptics.tex" 1539141311 27568 c1d756118eb958114e38f1a9bbb4ec1a ""
+  "lab1-rayOptics.aux" 1539142237 15194 2fea23000ef56446acb6f451a438ddd1 ""
+  "lab1-rayOptics.tex" 1539142233 27724 efe54633e485bec4885d2396b65b84b2 ""
   (generated)
   "lab1-rayOptics.log"
   "lab1-rayOptics.toc"

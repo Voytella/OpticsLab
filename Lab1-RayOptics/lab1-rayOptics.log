@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/MacPorts 2017_3) (preloaded format=pdflatex 2018.5.11)  9 OCT 2018 23:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/MacPorts 2017_3) (preloaded format=pdflatex 2018.5.11)  9 OCT 2018 23:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -897,7 +897,7 @@ Overfull \vbox (22.60579pt too high) has occurred while \output is active []
 
 
 [18] [19] [20] [21] [22]
-Overfull \hbox (4.1195pt too wide) in paragraph at lines 672--674
+Overfull \hbox (4.1195pt too wide) in paragraph at lines 673--675
 \OT1/cmr/m/n/12 The fo-cal length of the con-cave cylin-dri-cal mir-ror was mea
 -sured to be $[] []$. 
  []
@@ -905,7 +905,7 @@ Overfull \hbox (4.1195pt too wide) in paragraph at lines 672--674
 <exp11.jpg, id=92, 934.49126pt x 311.1625pt>
 File: exp11.jpg Graphic file (type jpg)
  <use exp11.jpg>
-Package pdftex.def Info: exp11.jpg used on input line 683.
+Package pdftex.def Info: exp11.jpg used on input line 684.
 (pdftex.def)             Requested size: 373.78989pt x 124.46278pt.
  [23] [24 <./exp11.jpg>] [25] [26] [27] [28] [29] [30] [31] [32] (./lab1-rayOpt
 ics.aux) )
@@ -931,7 +931,7 @@ texmf-texlive/fonts/type1/public/amsfonts/cm/cmr6.pfb></opt/local/share/texmf-t
 exlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></opt/local/share/texmf-texlive/
 fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/local/share/texmf-texlive/fonts
 /type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on lab1-rayOptics.pdf (33 pages, 320583 bytes).
+Output written on lab1-rayOptics.pdf (33 pages, 320782 bytes).
 PDF statistics:
  159 PDF objects out of 1000 (max. 8388607)
  107 compressed objects within 2 object streams
