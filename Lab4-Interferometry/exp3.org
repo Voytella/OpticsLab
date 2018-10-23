@@ -1,0 +1,7 @@
+* Procedure
+** \theta_i = 0,0
+** \theta_f = 5,5
+** N = 99,100
+* Data Analysis
+** d_g = 5mm
+** d_a = Lens-BeamSplitter:8cm + Splitter-AdjMirr:10cm + Splitter-MovMirr:10cm + Splitter-Screen:6cm
