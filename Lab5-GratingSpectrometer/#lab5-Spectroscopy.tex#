@@ -1,0 +1,116 @@
+\documentclass{article}
+
+\input{physicsPream}
+
+\begin{document}
+
+%----------BEGIN TITLEPAGE----------
+
+\begin{titlepage}
+
+  \title{Lab 5: Spectroscopy}
+  \author{Ryan Wojtyla \\
+    \textbf{Partners:} \\
+    Keefe Kamp \\
+    Jacquelyne Miksanek \\
+    Akshath Wikramanayake \\
+    }
+  \date{November 20, 2018}
+
+  \maketitle
+
+  \begin{center}
+    Abstract
+  \end{center}
+
+  \qq
+
+  \thispagestyle{empty}
+
+\end{titlepage}
+
+%-----------END TITLEPAGE-----------
+
+\section{Experiment 1: Emission Spectrum}
+
+%----------BEGIN EXPERIMENT 1----------
+
+\subsection{Objective}
+
+\qq The purpose of this experiment was to determine the wavelengths of the
+colors present in the emission spectrum of mercury vapor. This was accomplished
+by shining a beam emitted by mercury vapor through a diffraction grating that
+was then rotated. The angles at which each color revealed itself was recorded,
+and that angle was used to calculate the wavelength of the colors.
+
+\subsection{Theory}
+
+\qq All the atoms of a particular element have a certain set of discrete
+energy levels to which atoms' electrons can be excited. When the electrons fall
+back down to their normal positions, a photon with energy equal to one of the
+energy levels is emitted. An element's set of energy levels is referred to as
+its emission spectrum. 
+
+\qq The energy contained within these energy levels is determined with \(E =
+\frac{hc}{\lambda}\). Since \(hc\) is a constant, the energy is dependent solely
+upon the wavelength, \(\lambda\), which is the value we are finding in this
+experiment. While the wavelength of a particular color cannot be measured
+directly, it can be found with
+
+\begin{equation}
+  \label{eqn:wavelength}
+  \lambda = d \sin{(\lambda)}
+\end{equation}
+
+where \(d\) is the distance between the lines of the diffraction grating and
+\(\theta\) is the angle of diffraction for a color.
+
+\subsection{Equipment}
+
+
+
+\subsection{Procedures}
+
+\qq
+
+\subsection{Data and Analysis}
+
+\qq
+
+\subsection{Conclusion}
+
+\qq
+
+%-----------END EXPERIMENT 1-----------
+
+\section{Experiment 2: Absorption Spectrum}
+
+%----------BEGIN EXPERIMENT 2----------
+
+\subsection{Objective}
+
+\qq
+
+\subsection{Theory}
+
+\qq
+
+\subsection{Equipment}
+
+\qq
+
+\subsection{Procedures}
+
+\qq
+
+\subsection{Data and Analysis}
+
+\qq
+
+\subsection{Conclusion}
+
+\qq
+
+%-----------END EXPERIMENT 2-----------
+
+\end{document}
