@@ -2,7 +2,7 @@
 ** P_f = -66kPa
 ** P_i = 0kPa
 ** N = 13
-** d_g = 12mm + 20mm = 32mm
+** d_g = 12mm + 20mm = 8mm
 * Questions
 ** 2
 *** take several pressure readings
